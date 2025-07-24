@@ -916,6 +916,11 @@ footer {
 /* phone size */
 
 @media (max-width: 728px) {
+
+  .container{
+    padding: 15px 0;
+  }
+
   .row {
     flex-direction: column;
     padding: 0;
